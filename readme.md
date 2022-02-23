@@ -1,11 +1,12 @@
 # Jpegcity website
-The official website for JpegCity
+
+JPEGCITY is a real world utility project on Elrond Blockchain to promote travel in the cities as we know them today, using the handmade NFTs as building blocks. We aim to build a descentralized app on Elrond that gives rewards to the tourist that visits the city and to the owner of the city NFT. 
 
 SECTIONS:
-0. mint + socials
-1. stats
-2. concept
-3. rarity
+1. mint + socials
+2. stats
+3. concept
+4. rarity
 5. why us
 6. roadmap
 7. team
@@ -14,4 +15,5 @@ SECTIONS:
 
 TO DO:
 
-* replace photos under rarity (extra: edit format)
+* Collection page 
+* Code refactoring
